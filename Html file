@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sandy's Touch</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Sandy's Touch</h1>
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#gifts">Gifts</a>
+            <a href="#flowers">Flowers</a>
+            <a href="#weddings">Weddings</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+        <h2>Welcome to Sandy's Touch</h2>
+        <p>Elegant gifts, beautiful flowers, and magical wedding touches</p>
+        <button>Explore Now</button>
+    </section>
+
+    <!-- Gifts Section -->
+    <section class="products" id="gifts">
+        <h2>Gifts</h2>
+        <div class="products-container">
+            <div class="product">
+                <img src="https://via.placeholder.com/250x150/FFC0CB/fff?text=Gift+1" alt="Gift 1">
+                <h3>Gift Box 1</h3>
+                <p>Beautiful gift sets for every occasion</p>
+                <button>Discover</button>
+            </div>
+            <div class="product">
+                <img src="https://via.placeholder.com/250x150/FFB6C1/fff?text=Gift+2" alt="Gift 2">
+                <h3>Gift Box 2</h3>
+                <p>Customized gifts for your loved ones</p>
+                <button>Discover</button>
+            </div>
+            <div class="product">
+                <img src="https://via.placeholder.com/250x150/FF69B4/fff?text=Gift+3" alt="Gift 3">
+                <h3>Gift Box 3</h3>
+                <p>Special surprises for every celebration</p>
+                <button>Discover</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Flowers Section -->
+    <section class="products" id="flowers">
+        <h2>Flowers</h2>
+        <div class="products-container">
+            <div class="product">
+                <img src="https://via.placeholder.com/250x150/FFB6C1/fff?text=Rose+Bouquet" alt="Rose Bouquet">
+                <h3>Rose Bouquet</h3>
+                <p>Fresh roses delivered with love</p>
+                <button>Discover</button>
+            </div>
+            <div class="product">
+                <img src="https://via.placeholder.com/250x150/FFC0CB/fff?text=Mixed+Flowers" alt="Mixed Flowers">
+                <h3>Mixed Flowers</h3>
+                <p>Beautiful combinations for special moments</p>
+                <button>Discover</button>
+            </div>
+            <div class="product">
+                <img src="https://via.placeholder.com/250x150/FF69B4/fff?text=Exotic+Flowers" alt="Exotic Flowers">
+                <h3>Exotic Flowers</h3>
+                <p>Unique flowers for unforgettable memories</p>
+                <button>Discover</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Weddings Section -->
+    <section class="products" id="weddings">
+        <h2>Weddings</h2>
+        <div class="products-container">
+            <div class="product">
+                <img src="https://via.placeholder.com/250x150/FFB6C1/fff?text=Decor+Package" alt="Decor Package">
+                <h3>Decor Packages</h3>
+                <p>Elegant decoration for your wedding</p>
+                <button>Discover</button>
+            </div>
+            <div class="product">
+                <img src="https://via.placeholder.com/250x150/FFC0CB/fff?text=Wedding+Favors" alt="Wedding Favors">
+                <h3>Wedding Favors</h3>
+                <p>Perfect gifts for your guests</p>
+                <button>Discover</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact" id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: sandy@example.com</p>
+        <p>Phone: 01000000000</p>
+        <p>Instagram: @sandy_touch</p>
+    </section>
+
+    <footer>
+        <p>© 2026 Sandy's Touch. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
+    <!-- Gifts Section -->
+
+    <section class="products" id="gifts">
+
+        <h2>Gifts</h2>
+
+        <div class="products-container">
+
+            <div class="product">
+
+                <img src="https://via.placeholder.com/250x150/FFC0CB/fff?text=Gift+1" alt="Gift 1">
+
+                <h3>Gift Box 1</h3>
+
+                <p>Beautiful gift sets for every occasion</p>
+
+                <button>Discover</button>
+
+            </div>
+
+            <div class="product">
+
+                <img src="https://via.placeholder.com/250x150/FFB6C1/fff?text=Gift+2" alt="Gift 2">
+
+                <h3>Gift Box 2</h3>
+
+                <p>Customized gifts for your loved ones</p>
+
+                <button>Discover</button>
+
+            </div>
+
+            <div class="product">
+
+                <img src="https://via.placeholder.com/250x150/FF69B4/fff?text=Gift+3" alt="Gift 3">
+
+                <h3>Gift Box 3</h3>
+
+                <p>Special surprises for every celebration</p>
+
+                <button>Discover</button>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- Flowers Section -->
+
+    <section class="products" id="flowers">
+
+        <h2>Flowers</h2>
+
+        <div class="products-container">
+
+            <div class="product">
+
+                <img src="https://via.placeholder.com/250x150/FFB6C1/fff?text=Rose+Bouquet" alt="Rose Bouquet">
+
+                <h3>Rose Bouquet</h3>
+
+                <p>Fresh roses delivered with love</p>
+
+                <button>Discover</button>
+
+            </div>
+
+            <div class="product">
+
+                <img src="https://via.placeholder.com/250x150/FFC0CB/fff?text=Mixed+Flowers" alt="Mixed Flowers">
+
+                <h3>Mixed Flowers</h3>
+
+                <p>Beautiful combinations for special moments</p>
+
+                <button>Discover</button>
+
+            </div>
+
+            <div class="product">
+
+                <img src="https://via.placeholder.com/250x150/FF69B4/fff?text=Exotic+Flowers" alt="Exotic Flowers">
+
+                <h3>Exotic Flowers</h3>
+
+                <p>Unique flowers for unforgettable memories</p>
+
+                <button>Discover</button>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- Weddings Section -->
+
+    <section class="products" id="weddings">
+
+        <h2>Weddings</h2>
+
+        <div class="products-container">
+
+            <div class="product">
+
+                <img src="https://via.placeholder.com/250x150/FFB6C1/fff?text=Decor+Package" alt="Decor Package">
+
+                <h3>Decor Packages</h3>
+
+                <p>Elegant decoration for your wedding</p>
+
+                <button>Discover</button>
+
+            </div>
+
+            <div class="product">
+
+                <img src="https://via.placeholder.com/250x150/FFC0CB/fff?text=Wedding+Favors" alt="Wedding Favors">
+
+                <h3>Wedding Favors</h3>
+
+                <p>Perfect gifts for your guests</p>
+
+                <button>Discover</button>
+
+            </div>
+
+            <div class="product">
+
+                <img src="https://via.placeholder.com/250x150/FF69B4/fff?text=Cake+Designs" alt="Cake Designs">
+
+                <h3>Cake Designs</h3>
+
+                <p>Sweet treats and elegant cakes for the big day</p>
+
+                <button>Discover</button>
+
+            </div>
+
+        </div>
+
+    </section>
